@@ -1,7 +1,6 @@
 - 👋 Hi, I'm Arnav, I'm a Developer, Blogger, and Future Scientist!
 - 👀 I'm currently learning React and Going to learn Python Soon
 - 🤜 Open to Collaborate
-- 😄 Well Known Pronouns : he/him
 - 📫 You can reach me by sending pull request ...
 
 <!---
